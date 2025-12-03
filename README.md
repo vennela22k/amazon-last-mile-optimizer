@@ -1,7 +1,10 @@
 # Amazon Last-Mile Delivery Optimizer  
-**96% distance reduction · Real Amazon India data · Google OR-Tools**
 
-![Before vs After](https://github.com/vennela22k/amazon-last-mile-optimizer/blob/main/before.png?raw=true)  
+<p align="center">
+  <img src="https://github.com/vennela22k/amazon-last-mile-optimizer/blob/main/before.png?raw=true" width="48%"/>
+  <img src="https://github.com/vennela22k/amazon-last-mile-optimizer/blob/main/after.png?raw=true" width="48%"/>
+  <br>
+</p> 
 *Left: Unoptimized routes (40,000+ miles) — Right: Optimized with OR-Tools (under 1,600 miles)*
 
 ### Results (100 real deliveries)
@@ -21,9 +24,6 @@
 
 ### Tech stack
 - Python · Pandas · Geopy · Folium · Google OR-Tools
-
-### Try it yourself
-Just open the notebook in Google Colab — zero setup required!
 
 ---
 
