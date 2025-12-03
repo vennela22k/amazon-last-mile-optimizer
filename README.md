@@ -1,7 +1,7 @@
 # Amazon Last-Mile Delivery Optimizer  
 **96% distance reduction · Real Amazon India data · Google OR-Tools**
 
-![Before vs After](https://github.com/YOUR-USERNAME/amazon-last-mile-optimizer/blob/main/before.png?raw=true)  
+![Before vs After](https://github.com/vennela22k/amazon-last-mile-optimizer/blob/main/before.png?raw=true)  
 *Left: Unoptimized routes (40,000+ miles) — Right: Optimized with OR-Tools (under 1,600 miles)*
 
 ### Results (100 real deliveries)
