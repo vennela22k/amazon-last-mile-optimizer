@@ -11,8 +11,8 @@
 | Metric                  | Before         | After          | Savings     |
 |-------------------------|----------------|----------------|-------------|
 | Total Distance          | 41,238 miles   | 1,592 miles    | **96.1%**   |
-| Miles Saved             | —              | 39,646 miles   |             |
-| Estimated Annual Savings| —              | **~$2.4 million** |          |
+| Miles Saved             | -              | 39,646 miles   | -           |
+| Estimated Annual Savings| -              | **~$2.4 million** | -        |
 
 *Assumptions: $1.20/mile average cost (fuel + driver + wear), 365 days/year*
 
@@ -22,10 +22,10 @@
 3. Solved Vehicle Routing Problem with **Google OR-Tools** (same engine Amazon & UPS use)
 4. Visualized before/after with interactive Folium + Google Maps tiles
 
-### Tech stack
+### How I Built It
+Leveraged **Grok (xAI)** to accelerate development and learn advanced OR-Tools routing algorithms in real-time. I handled data cleaning, geographic filtering, map visualization, and business impact calculations myself, AI assisted with syntax and optimization patterns, helping me deliver production-quality code 5× faster while deepening my understanding of constraint-based solvers.
+
+### Tech Stack
 - Python · Pandas · Geopy · Folium · Google OR-Tools
 
----
-
-Built in one weekend.  
-Open to internship/full-time opportunities in Supply Chain, Logistics, or Optimization  
+_____________________________________________
